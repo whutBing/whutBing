@@ -14,5 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### GitHub Stats Card
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=whutBing&show_icons=true&theme=tokyonight" /> </div>
+
+### Most used languages
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whutBing" /> </div>
+
 
