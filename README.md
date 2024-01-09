@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Bing, a part-time full-stack freelance developer 👨‍💻 working hardly since 2022 🚀</div>  
   
 
@@ -78,15 +73,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=whutBing&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
   
-
-<br/>  
-
-  
-
 <br/>  
 
   
